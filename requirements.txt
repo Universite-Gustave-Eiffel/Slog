@@ -1,0 +1,7 @@
+numpy>=1.19
+matplotlib>=3.3
+pyqt5
+graphviz
+numpydoc>=1.1.0
+sphinx~=4.0
+pydata-sphinx-theme~=0.6
