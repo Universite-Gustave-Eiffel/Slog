@@ -2,8 +2,8 @@ Important requirement
 ---------------------
 
 You must have installed Python 3
-If pip does not work, try pip3
 
+If pip does not work, try pip3
 
 To install Slog package using pip
 ---------------------------------
