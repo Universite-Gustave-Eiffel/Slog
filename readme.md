@@ -24,4 +24,5 @@ To compile the documentation (generated through Sphynx):
 > make html
 
 The html of the doc will be in build/html
+
 It includes a Quick Start
