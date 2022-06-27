@@ -12,7 +12,7 @@ To install Slog package using pip
 
 > pip install -r path/to/SLOG/requirements.txt path/to/SLOG
 
-
+Then, add path/to/SLOG to the PATH variable
 
 To compile the documentation (generated through Sphynx):
 --------------------------------------------------------
